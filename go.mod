@@ -1,4 +1,4 @@
-module github.com/mengqiy/starlark-poc/runtime
+module github.com/mengqiy/starlark-fn
 
 go 1.16
 
